@@ -18,6 +18,7 @@ The sections are structured logically:
 7. `07-loginwindow-and-banners.md`
 8. `08-finder-ui-and-filevault.md`
 9. `09-third-party-tools.md`
+10. `10-browsers-and-vpns.md`
 
 Each section contains:
 
